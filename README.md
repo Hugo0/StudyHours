@@ -19,6 +19,7 @@ You also get a few simple charts to visualize your history on the click of a but
   <img src="img/days.png" width=450 />
   <img src="img/weekday.png" width=400 />
 </p>
+<br> <br>
 
 Please feel free to download & use/modify however you want.
 If you have any suggestions in regards to code/features, I'm open to advice :)
