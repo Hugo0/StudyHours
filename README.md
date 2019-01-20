@@ -1,7 +1,5 @@
 # StudyHours
 
-v0.9: still need to adjust charts a bit
-
 I just wanted a small tool to help keep me productive and track the numbers of hours I'm studying/being productive.
 Since everything out there is mostly too complex for my usecase, I decided hey, why not do it myself?
 
