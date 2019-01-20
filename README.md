@@ -14,7 +14,7 @@ You also get a few simple charts to visualize your history on the click of a but
 
 <img src="img/screenshot.PNG" width=300>
 
-Charts:
+### Charts:
 <p float="left">
   <img src="img/days.png" width=450 />
   <img src="img/weekday.png" width=400 />
